@@ -6,7 +6,7 @@
 /*   By: mobenhab <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/08/12 09:01:36 by mobenhab          #+#    #+#             */
-/*   Updated: 2025/08/14 10:22:37 by mobenhab         ###   ########.fr       */
+/*   Updated: 2025/11/23 12:18:14 by mobenhab         ###   ########lyon.fr   */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,8 +16,3 @@ void	ft_putchar(char c)
 {
 	write(1, &c, 1);
 }
-/*
-int	main(void)
-{
-	ft_putchar('a');
-}*/
